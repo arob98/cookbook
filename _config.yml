@@ -1,0 +1,35 @@
+# Site settings
+title: "Cookbook"
+description: "A collection of family recipes"
+baseurl: ""          # leave blank for user site, or "/repo-name" if hosted under a project
+url: "https://angrob98.github.io"  # replace with your GitHub Pages URL
+
+# Build settings
+markdown: kramdown
+theme: minima          # simple, built-in theme; you can choose others
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Permalinks
+permalink: /:categories/:title/
+
+# Collections (optional, but useful for recipes)
+collections:
+  recipes:
+    output: true
+    permalink: /recipes/:category/:title/
+
+# Defaults (optional: template front matter)
+defaults:
+  - scope:
+      path: ""          # empty string means all files
+      type: "recipes"
+    values:
+      layout: "recipe"   # refers to _layouts/recipe.html if you add custom layouts
+
+# Exclude files/folders from build
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
