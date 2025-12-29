@@ -17,11 +17,10 @@ A classic apple pie with a buttery, flaky crust. Inspired by Pillsbury recipes.
 - 6 cups thinly sliced, peeled apples (Granny Smith or your favorite)
 - 3/4 cup sugar
 - 2 tablespoons all-purpose flour
-- 1/2 teaspoon ground cinnamon
-- 1/4 teaspoon ground nutmeg
+- 3/4 teaspoon ground cinnamon
+- 1/8 teaspoon ground nutmeg
 - 1/4 teaspoon salt
 - 1 tablespoon lemon juice
-- 1 tablespoon butter, cut into small pieces
 
 ## Instructions
 
@@ -30,8 +29,7 @@ A classic apple pie with a buttery, flaky crust. Inspired by Pillsbury recipes.
 3. **Mix the filling:** In a large bowl, combine sliced apples, sugar, flour, cinnamon, nutmeg, salt, and lemon juice. Toss gently to coat.
 4. **Fill the pie:** Pour the apple mixture into the pie crust-lined pan. Dot the top with butter pieces.
 5. **Add the top crust:** Cover with the second pie crust. Trim excess dough, pinch edges to seal, and cut slits in the top to allow steam to escape.
-6. **Bake:** 45-50 minutes or until crust is golden brown and filling is bubbly. Check halfway through; if the edges brown too quickly, cover them with foil.
-7. **Cool:** Let pie cool on a wire rack for at least 2 hours before serving.
+6. **Bake:** 40-45 minutes or until crust is golden brown and filling is bubbly. Check halfway through; if the edges brown too quickly, cover them with foil.
 
 ## Notes
 
