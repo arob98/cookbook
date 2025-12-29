@@ -12,7 +12,7 @@ layout: "recipe"
 ## Ingredients
 
 - 1/2 cup beef broth
-- 1/4 cut olive oil
+- 1/4 cup olive oil
 - 2 tbps soy sauce
 - 1 garlic clove, minced
 - 1/4 tsp pepper
